@@ -1,4 +1,4 @@
-![MasterHead](https://cdn-icons-png.flaticon.com/512/2890/2890354.png)
+![MasterHead](https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif)
 <h1 align="center">Hi 👋, I'm Seray</h1>
 <h3 align="center">A passionate cyber security researcher from Türkiye</h3>
 
