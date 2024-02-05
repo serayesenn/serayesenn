@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **web pentesting**
 
-- 📝 I regularly write articles on [serayesen.medium.com](serayesen.medium.com)
+- 📝 I regularly write articles on [serayesen.medium.com](medium.com/@serayesen)
 
 - 📫 How to reach me **serayesen2003@gmail.com**
 
